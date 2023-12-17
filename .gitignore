@@ -32,7 +32,8 @@ captures/
 
 # IntelliJ
 *.iml
-.idea/
+.idea/*
+!.idea/codeStyles
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
